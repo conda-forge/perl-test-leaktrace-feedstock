@@ -203,6 +203,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@conda-forge/perl-packagers](https://github.com/conda-forge/perl-packagers/)
+* [@conda-forge/perl-packagers](https://github.com/orgs/conda-forge/teams/perl-packagers/)
 * [@xileF1337](https://github.com/xileF1337/)
 
